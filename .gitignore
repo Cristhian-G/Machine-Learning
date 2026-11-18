@@ -9,6 +9,8 @@ __pycache__/
 # IDE directories
 .idea
 .idea/
+skills
+skills/
 
 # Distribution / packaging
 .Python
